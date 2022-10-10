@@ -9,7 +9,7 @@ document.addEventListener('invalid', (function () {
     };
 })(), true);
 
-const button = document.getElementById('submit');
+const button = document.getElementById('submitButton');
 //   const email = document.getElementById('email');
 
 button.addEventListener('click', function () {
